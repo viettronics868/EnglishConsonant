@@ -1,0 +1,3 @@
+I tested my app on Samsung A5 and Sony T2 Ultra. The version of Android Studio is 1.5.1.
+My app will start with Game Activity module, and the app will move to Splash Screen Scene module, and then to Main Menu Scene module. 
+From Main Menu Scene, I sometimes design Menu Sub Scene if applicable. While switching to Gameplay Scene module, the Loading Scene will be displayed first, unloading Main Menu textures, loading Game textures, and creating Game Scene. If I am in Game Scene, I can exit it, Loading Scene will be displayed unloading Gameplay Scene and loading Main Menu textures.
